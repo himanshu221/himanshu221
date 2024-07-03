@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
-- 🔭 I’m currently working on [Chess](chess.himanshubhushan.com)
+- 🔭 I’m currently working on [Chess](https://chess.himanshubhushan.com)
 
 - 🌱 I’m currently learning **Apache kafka**
 
