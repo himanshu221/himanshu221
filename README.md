@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
-- 🔭 Find everthing you need to know about me here [himanshubhushan.com](https:himanshubhushan.com)
+- 🔭 Find everthing you need to know about me here [himanshubhushan.com](https://himanshubhushan.com)
 - 🌱 I’m currently learning **Apache kafka**
 - 📖 **Delhi Technological University (formerly DCE)** Computer Science grad.
 - 📫 How to reach me **himanshubhushan775@gmail.com**
